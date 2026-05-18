@@ -1,0 +1,11 @@
+C:\융합UI실습\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\융합UI실습\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\융합UI실습\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\융합UI실습\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
