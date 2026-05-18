@@ -1,7 +1,0 @@
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
-C:\융합UI실습\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
