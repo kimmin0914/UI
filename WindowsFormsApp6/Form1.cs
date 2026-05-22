@@ -46,13 +46,11 @@ namespace WindowsFormsApp6
             if (btnAddProduct.Text != "" && textBox2.Text != "")
             {
                 string newName = btnAddProduct.Text;
-                int newPrice = int.Parse(textBox2.Text); // 입력한 글자를 숫자로 변환
+                int newPrice = int.Parse(textBox2.Text);
 
-                // 리스트에 추가하고 합계 업데이트
                 productBindingSource.Add(new Product { Name = newName, Price = newPrice });
                 UpdateTotal();
 
-                // 입력 완료 후 텍스트박스 비우기
                 btnAddProduct.Text = "";
                 textBox2.Text = "";
             }
