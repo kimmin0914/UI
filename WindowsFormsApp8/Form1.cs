@@ -46,6 +46,7 @@ namespace WindowsFormsApp8
         private void timer2_Tick(object sender, EventArgs e)
         {
             int randomValue = rnd.Next(0, 11);
+            int randomValue2 = rnd.Next(0, 11);
 
             if (chart1.Series[0].Points.Count > 50)
             {
@@ -53,6 +54,14 @@ namespace WindowsFormsApp8
             }
 
             chart1.Series[0].Points.AddXY(DateTime.Now.ToString("ss.f"), randomValue);
+            chart1.ChartAreas[0].RecalculateAxesScale();
+
+            if (chart1.Series[1].Points.Count > 50)
+            {
+                chart1.Series[1].Points.RemoveAt(0);
+            }
+
+            chart1.Series[1].Points.AddXY(DateTime.Now.ToString("ss.f"), randomValue2);
             chart1.ChartAreas[0].RecalculateAxesScale();
         }
 
@@ -64,6 +73,11 @@ namespace WindowsFormsApp8
         private void 정지_Click(object sender, EventArgs e)
         {
             timer1.Stop();
+        }
+
+        private void chart1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
